@@ -44,7 +44,10 @@ kumakeyさんから販売許可は戴いております。
 ### 1-2. バージョン説明
 
 #### moNa - 左手トラックボール版
+>[moNa用ファームウェア](https://github.com/sayu-hub/zmk-config-moNa)
 #### moNa2 - 右手トラックボール版
+>[moNa2用ファームウェア](https://github.com/sayu-hub/zmk-config-moNa2)
+
 
 > [!WARNING]
 > 同じ商品でも修正等により、形状が多少変化する場合があります。
@@ -70,7 +73,8 @@ kumakeyさんから販売許可は戴いております。
 
 1. キースイッチ(choc v2)
 > おすすめ : lofree ghoast
-2. キーキャップ(キーピッチ17mm要対応)
+2. キーキャップ(キーピッチ17mm要対応)  
+17mm用キーキャップの3Dデータは [こちら](model/keycap/17mm_keycap.3mf) に公開しています。
 > おすすめ : Junana MX
 3. 精密ドライバー 
 > 組み立ての際**m2ねじ**の取りつけ・取り外しに使用します
