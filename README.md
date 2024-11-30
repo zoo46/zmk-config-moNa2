@@ -26,7 +26,8 @@
 
 ## 1. moNaについて
 
-![](img/moNa2 2色.png)
+![写真](img/moNa2_2色.png)
+
 > キースイッチとキーキャップは付属しません
 
 moNaは[kumakey](https://twitter.com/kumamuk_key)さんが制作したroBaを参考にしてできた分割型キーボードです。
