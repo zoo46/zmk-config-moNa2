@@ -93,6 +93,10 @@ kumakeyさんから販売許可は戴いております。
 shakupanさん作のキーキャップの3Dデータを公開しています。
 3Dプリンタをお持ちの方は[こちら](model/keycap/17mm_keycap.3mf)からダウンロードして印刷してみてください。
 印刷の際は側面を下にして印刷することで積層が縦になり手触りがとてもよくなります。
+<!-- プリント写真 -->
+<img src="img/keycap_setting_3.png" width="400">
+<img src="img/keycap_setting_1.png" width="300"> 
+<img src="img/keycap_setting_2.png" width="300">
 
 3Dプリンタを持っていない方でもmoNaの購入時にオプションで付けることが可能となる予定です。  
 あくまで3Dプリンタ製であるということをご理解いただいたうえでご購入してください。
