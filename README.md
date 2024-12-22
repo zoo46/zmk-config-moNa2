@@ -25,7 +25,7 @@
     - [自作キーボードに興味がある方へ](#自作キーボードに興味のある方)
 
 ## 1. moNaについて
-![写真](img/home.png)
+![写真](img/logohome.png)
 <!-- <img src="img/home.png" width="400"> -->
 > キースイッチは付属しません
 
