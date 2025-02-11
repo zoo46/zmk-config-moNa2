@@ -77,6 +77,8 @@
 &kp N0         &kp N1     &kp N2        &kp N3  &kp LS(PRCNT)  &kp LS(AMPS)    &kp LBKT     &kp RBKT   &kp LS(LT)    &kp LS(GT)    &kp LS(PIPE)  &kp LS(UNDER)
 &kp LS(PLUS)   &kp MINUS  &kp LS(STAR)  &trans  &trans         &trans          &trans       &trans                                               &kp AT
             >;
+
+            sensor-bindings = <&scroll_up_down>;
         };
 
         layer_3 {
