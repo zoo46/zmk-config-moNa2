@@ -76,7 +76,7 @@
 &kp LS(PLUS)   &kp MINUS  &kp LS(STAR)  &trans  &trans         &trans          &trans       &trans                                               &kp AT
             >;
 
-            sensor-bindings = <&scroll_up_down>;
+            sensor-bindings = <&inc_dec_kp PAGE_DOWN PAGE_UP>;
         };
 
         layer_3 {
@@ -87,7 +87,7 @@
 &trans          &trans                  &trans          &trans                   &trans   &trans    &trans  &trans                                &trans
             >;
 
-            sensor-bindings = <&scroll_up_down>;
+            sensor-bindings = <&inc_dec_kp PAGE_DOWN PAGE_UP>;
         };
 
         layer_4 {
