@@ -54,7 +54,7 @@
 &kp LCTRL         &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 INTERNATIONAL_4  &lt 2 SPACE  &lt 3 INT_MUHENKAN    &kp BACKSPACE  &lt 1 ENTER                             &kp DEL
             >;
 
-            sensor-bindings = <&inc_dec_kp PAGE_DOWN PAGE_UP>;
+            sensor-bindings = <&scroll_up_down>;
         };
 
         layer_1 {
@@ -76,7 +76,7 @@
 &kp LS(PLUS)   &kp MINUS  &kp LS(STAR)  &trans  &trans         &trans          &trans       &trans                                               &kp AT
             >;
 
-            sensor-bindings = <&inc_dec_kp PAGE_DOWN PAGE_UP>;
+            sensor-bindings = <&scroll_up_down>;
         };
 
         layer_3 {
@@ -87,7 +87,7 @@
 &trans          &trans                  &trans          &trans                   &trans   &trans    &trans  &trans                                &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp PAGE_DOWN PAGE_UP>;
+            sensor-bindings = <&scroll_up_down>;
         };
 
         layer_4 {
